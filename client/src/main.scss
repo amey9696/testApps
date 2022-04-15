@@ -1,0 +1,20 @@
+//variable scss
+@import "scss/abstracts/variables";
+@import "scss/abstracts/mixin";
+@import "scss/abstracts/extends";
+
+//base scss 
+@import "scss/base/reset";
+
+//utility classes scss
+@import "scss/utils/utils";
+
+//components scss
+@import "scss/components/notFound";
+@import "scss/components/dashboard";
+@import "scss/components/loader";
+@import "scss/components/pagination";
+@import "scss/components/home";
+
+//design & layout scss
+@import "scss/layout/grid";  
